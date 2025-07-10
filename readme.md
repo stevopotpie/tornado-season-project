@@ -85,10 +85,10 @@ This project demonstrates core data analyst skills:
 ├── tornado_cleaned_for_dashboard.xls
 ├── tornado_analysis.ipynb
 ├── dashboard_screenshots/
-│   ├── map_chart.png
-│   ├── bar_chart.png
-│   ├── stacked_chart.png
-│   └── pie_chart.png
+│   ├── map_chart_by_state.png
+│   ├── line_chart_by_year.png
+│   ├── stacked_chart_intensity_by_month.png
+│   └── pie_chart_intensity.png
 
 ```
 
