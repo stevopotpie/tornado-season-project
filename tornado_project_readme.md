@@ -81,7 +81,8 @@ This project demonstrates core data analyst skills:
 📁 tornado-season-project/
 │
 ├── README.md
-├── tornado_cleaned.csv
+├── tornado_cleaned_for_dashboard.csv
+├── tornado_cleaned_for_dashboard.xls
 ├── tornado_analysis.ipynb
 ├── dashboard_screenshots/
 │   ├── map_chart.png
