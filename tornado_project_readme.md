@@ -88,8 +88,7 @@ This project demonstrates core data analyst skills:
 │   ├── bar_chart.png
 │   ├── stacked_chart.png
 │   └── pie_chart.png
-└── 📁 docs/
-    └── what_to_clean_in_python.md
+
 ```
 
 ---
@@ -111,5 +110,6 @@ This project demonstrates core data analyst skills:
 
 > **Contact:**\
 > *Steven Sutcliffe* – Aspiring Data Analyst in Atlanta, GA\
+> stevenpsutcliffe@gmail.com
 > [[LinkedIn](https://www.linkedin.com/in/steven-sutcliffe-7b5937a7/)) | [GitHub](https://github.com/stevopotpie)
 
